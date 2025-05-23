@@ -1,1 +1,2 @@
-Print("Hello World!")
+local msg = 'Hello, World!'
+Print(\`{msg}`)
