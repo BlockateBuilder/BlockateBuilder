@@ -1,2 +1,2 @@
 local msg = 'Hello, World!'
-Print(\`{msg}`)
+print(\`{msg}`)
